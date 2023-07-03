@@ -1,5 +1,5 @@
 from config import config
-from database import DBManager
+from src.database import DBManager
 from pprint import pprint
 from src.headhunter import HeadHunter
 
