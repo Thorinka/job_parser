@@ -2,12 +2,12 @@
 
 **Requirements**
 
-certifi==2023.5.7
-charset-normalizer==3.1.0
-idna==3.4
-psycopg2==2.9.6
-requests==2.31.0
-urllib3==2.0.3
+* certifi==2023.5.7
+* charset-normalizer==3.1.0
+* idna==3.4
+* psycopg2==2.9.6
+* requests==2.31.0
+* urllib3==2.0.3
 
 Программа ищет информацию по списку заданных работодателей и их опубликованных вакансий. 
 Необходима установка postgres перед началом работы. 
